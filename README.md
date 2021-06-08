@@ -27,7 +27,7 @@
 </p>
 
 <details align='center'>
-           <summary>:zap:🌟⭐ GitHub Stats</summary>
+           <summary>:zap: GitHub Stats 🌟⭐</summary>
 <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enymy&" width="500"></a>
 </p>
@@ -35,13 +35,13 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ENYMY&show_icons=true&count_private=true&theme=tokyonight" width="500"></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enymy" alt="enymy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enymy" alt="enymy" /></a> </p>
 </details>
 <details align='center'>
-           <summary>:zap:💻 My workspace</summary>
+           <summary>:zap: My workspace 💻</summary>
 <p align='center'>
          
-  💻 My workspace<br/><br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%202nd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -49,15 +49,8 @@
 </p> 
 </details>
 
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto: shajanasir@gmail.com'> shajanasir@gmail.com</a>
-</p>
-
-
-<details>
+<details align='center'>
   <summary>📃 Resume</summary>
-
 
 ## Education
 
