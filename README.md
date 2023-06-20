@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
- I am currently an Undergraduate @Faculty_of_Information_Technology,University_of_Moratuwa.👨‍🎓
+ Associate Software Engineer at Intervest Software Technologies.
 </p>
 
 
